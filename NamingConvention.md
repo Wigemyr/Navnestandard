@@ -71,10 +71,10 @@ Tabellen under viser et eksempel på hvordan navnestrukturen for ressursgrupper 
 
 | Applikasjonsnavn, prosjekt eller funksjon | Miljø | Navn på ressursgruppe                 |
 |-------------------------------------------|-------|---------------------------------------|
-| hrsystem                                  | prod  | hrsystem-utv-rg               |
-| analyseapplikasjon                        | utv   | analyseapplikasjon-prod-rg    |
-| teamsbestilling                           | utv   | teamsbestilling-utv-rg        |
-| B024 *(eksempel på prosjekt)*             | utv   | b024-utv-rg                   |
+| hrsystem                                  | prod  | hrsystem-utv-rg                       |
+| analyseapplikasjon                        | utv   | analyseapplikasjon-prod-rg            |
+| teamsbestilling                           | utv   | teamsbestilling-utv-rg                |
+| B024 *(eksempel på prosjekt)*             | utv   | b024-utv-rg                           |
 
 ## Forslag til navnestandard for Ressurser i Azure
 Hver ressurstype eller tjenestetype i Azure innebærer et sett med navnerestriksjoner og omfang; enhver navnekonvensjon eller mønster må overholde de nødvendige navnerestriksjonene og omfanget. For eksempel, mens navnet på en VM knyttes til et DNS-navn (og derfor må være unikt over hele Azure), er navnet på et VNET (virtuelt nettverk) begrenset til Ressursgruppen det er opprettet i, og kan derfor ha et samme navn i en annen ressursgruppe.
