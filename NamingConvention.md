@@ -87,7 +87,7 @@ Når det gjelder <ressurs-forkortelse> tar man utgangspunkt i Microsoft sine anb
 Tabellen under viser et eksempel på hvordan navnestrukturen for ressurser i Azure kan se ut.  
 
 | Azure Ressurs      | Forkortelse   | Miljø         | Applikasjonsnavn eller prosjekt    | Funksjon         | Fullstendig navn for Ressurs                    |
-|--------------------|---------------|---------------|-------------------------------------------------------|-------------------------------------------------|
+|--------------------|---------------|---------------|------------------------------------|------------------|-------------------------------------------------|
 | Virtual Machine    | vm            | utv           | analyseapplikasjon                 | publisernyheter  | analyseapplikasjon-utv-vm01                     |
 | Load Balancer      | lb            | prod          | B024 (eksempel på prosjekt)        | balensertrafikk  | b024-prod-lb01                                  |
 | Piblic IP Address  | pip           | utv           | analyseapplikasjon                 | analyserer       | analyseapplikasjon-utv-pip01                    |
